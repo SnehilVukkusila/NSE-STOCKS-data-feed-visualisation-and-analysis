@@ -1,17 +1,14 @@
-pg. 1
- R.V. COLLEGE OF ENGINEERING,
- BENGALURU-560059
- (Autonomous Institution Affiliated to VTU, Belagavi)
+
 
 VISUALISATION AND COMPARISON OF
 NIFTY50
 STOCK DATASETS
 
  Exploratory Data Analysis Of Datasets
-Python PLC Theory EL Report
+
 Submitted By :-
 SNEHIL VUKKUSILA --- RVCE22BAI006
-PARTH SHUKLA---RVCE22BAI031
+
 Department of Artifial Intelligence And Machine Learning,
  RV COLLEGE OF ENGINEERING®, BENGALURU – 560059
 pg. 2
